@@ -66,4 +66,4 @@ Passing the short code, shown as follows:
 https://spring-bubble.glitch.me/YYYY
 ```
 
-Where ```YYYY``` is the short code for the original website. This will execute a redirect to the original url that was given, or if the url doesn't exisit in the database will give a warning message saying so.
+Where ___YYYY___ is the short code for the original website. This will execute a redirect to the original url that was given, or if the url doesn't exisit in the database will give a warning message saying so.
